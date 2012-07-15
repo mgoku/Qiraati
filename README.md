@@ -8,4 +8,4 @@ Qiraati is a comprehensive Al-Qur'an learning tools. Qiraati aims to provide a w
 - Translations : Translation of ayah, including per word translation.
 - Tafsheer : Al-Qur'an intrepretation explained by Moslem schoolars.
 - Asbabun Nuzuul : Historical information about how a part of Al-Qur'an accended.
-- Tahfidz : Provide infrastructure to help memorize Al-Qur'an. This including track record, curriculum, etc.
+- Tahfidz : Provide infrastructure to help memorize Al-Qur'an. This include progress tracking, curriculum, etc.
